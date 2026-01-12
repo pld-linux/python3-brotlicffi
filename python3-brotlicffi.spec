@@ -7,7 +7,7 @@ Summary:	Python 2 CFFI binding to the Brotli library
 Summary(pl.UTF-8):	Wiązanie CFFI Pythona 2 do biblioteki Brotli
 Name:		python3-brotlicffi
 Version:	1.2.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/brotlicffi/
